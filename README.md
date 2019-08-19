@@ -46,7 +46,7 @@
              Richard DeVenezia                                                                                                
              rdevenezia@gmail.com                                                                                             
                                                                                                                               
-          m. very fast single pass hash solution                                                                              
+          m. single pass hash solution                                                                              
              Bartosz Jablonski                                                                                                
              yabwon@gmail.com                                                                                                 
                                                                                                                               
